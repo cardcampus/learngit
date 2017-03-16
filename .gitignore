@@ -7,6 +7,7 @@ Desktop.ini
 *.py[cod]
 *.so
 *.egg
+*.io
 *.egg-info
 dist
 build
