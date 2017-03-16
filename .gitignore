@@ -7,11 +7,11 @@ Desktop.ini
 *.py[cod]
 *.so
 *.egg
-*.io
+*.cc
 *.egg-info
 dist
 build
-
+bootstrap
 # My configurations:
 db.ini
 deploy_key_rsa
